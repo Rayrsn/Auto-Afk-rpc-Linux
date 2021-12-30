@@ -1,0 +1,6 @@
+{
+"client_id": "871404899915665438",
+"timetoafk": "300",
+"timetochangestate": "30", "COMMENT": "don't put anything less than 15 in timetochangestate",
+"statecheck": "True"
+}
